@@ -1,0 +1,5 @@
+I thought it would be a better idea to explain Gihub's capablities by taking you through a quick demo while sprinkling some common lingo and showing you what that lingo means
+
+So after you've created your account on Github, you've got understant that Github basically has two components- a website, and an app
+The app is essentially a local version. What do I mean by that?
+Imagine it is a far more powerful version of Windows Explorer.
