@@ -3,3 +3,46 @@ I thought it would be a better idea to explain Gihub's capablities by taking you
 So after you've created your account on Github, you've got understant that Github basically has two components- a website, and an app
 The app is essentially a local version. What do I mean by that?
 Imagine it is a far more powerful version of Windows Explorer.
+And you have the website that you can access your folders from wherever you want.
+
+So now let's assume Me and Zuno are working on a bid. I am working on building the profiles of the partner organisations. Zuno is working on compiling relevant projects and CVs of staff
+So I'm going to create a new folder (1. create in Github or 1. create in Explorer, or 1. clone (Clone bid template repository))
+Now fork ( search for world bank data, and fork a repository)
+
+Now let's say I want to save my changes - so I commit my changes as it's called in Github. I add a comment so it helps me identify the commit easily.
+
+(
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis molestie urna, ac fermentum nisl. Quisque mattis ligula vel nunc dapibus, id vulputate risus mollis. Quisque quis sem dolor. Phasellus egestas et enim in finibus. Suspendisse sit amet fermentum elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed interdum pulvinar ex at suscipit. Proin dictum non nibh quis viverra. Nunc at accumsan odio. Praesent id ex velit. Phasellus accumsan blandit dolor ut porta. Quisque faucibus ipsum lacus, sed dignissim justo ultricies at. Fusce volutpat blandit sapien sed eleifend. Suspendisse pharetra diam eu urna cursus, nec ornare ipsum finibus. Vivamus laoreet sagittis elit, nec bibendum ex accumsan sed.
+
+Nunc nulla sapien, aliquam ac suscipit non, viverra vel urna. Pellentesque egestas ex sapien, non aliquet dolor faucibus vitae. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras tellus orci, sollicitudin scelerisque ultricies eget, sodales eget risus. Sed eu odio at odio molestie placerat in et felis. Nam aliquam est nec metus vehicula fermentum. Proin sit amet porttitor sem.
+
+Donec laoreet scelerisque ipsum. Aliquam at tortor ac odio rhoncus pharetra a lacinia nisl. In tellus ligula, scelerisque non ligula iaculis, porta fermentum libero. Pellentesque nisl diam, rhoncus ut pulvinar sit amet, faucibus a elit. Nullam quis convallis leo, at condimentum nulla. Integer tempor dictum velit, vel faucibus tortor vestibulum sit amet. Ut bibendum blandit neque in bibendum. Proin non diam volutpat, facilisis tellus sit amet, pellentesque elit.
+
+Curabitur malesuada faucibus nisl, non rutrum nisl semper et. Mauris ut neque nisl. Duis ultrices elit in ex aliquet, eget tempor tellus blandit. Pellentesque aliquam metus et justo tristique placerat. Pellentesque fringilla, sapien et feugiat fermentum, leo quam commodo sem, vitae rutrum libero lorem quis massa. Donec semper, dui in porta pharetra, arcu orci malesuada massa, ut ornare velit nisi quis mauris. Quisque imperdiet ullamcorper lacus eget lacinia. Etiam sed ligula viverra, fermentum lacus at, luctus quam. Fusce quis libero eget diam imperdiet scelerisque. Mauris elementum leo bibendum, pretium odio in, aliquam purus. Integer lectus libero, dapibus id consectetur sed, mattis in ligula. Nullam tincidunt volutpat dolor, vestibulum molestie eros convallis at. Suspendisse at sodales diam. In egestas luctus felis eu porttitor. Vestibulum condimentum sodales vulputate.
+
+Praesent at purus blandit, laoreet magna vel, fermentum dolor. Phasellus iaculis sed dui id aliquet. Cras consequat risus ut turpis tincidunt efficitur quis et ipsum. Maecenas porta nulla id libero mollis malesuada. Donec ut tellus et libero viverra bibendum. Nullam non urna eget est sollicitudin convallis vitae et quam. Sed quis dui porta, aliquet quam vel, scelerisque metus. Duis mollis aliquam sapien, ut viverra dui tristique eget. Fusce eget neque dapibus quam dignissim egestas. Nullam pellentesque dapibus massa, sed feugiat urna. Maecenas quis ligula eget lorem placerat molestie egestas et magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum vitae bibendum massa. Suspendisse varius ornare nibh eu hendrerit. Vivamus condimentum et tortor ullamcorper lacinia.
+
+Partner 1
+
+Partner 2
+)
+
+So this is where it makes your life easy, you don't need to save your file as final-version 1, final version 23. All you need is one file, and each time you commit, Github saves that version of it.
+You can also undo a commit.
+
+Now let's suppose you're writing a paper, and you're certain you want to build a linear probabilty model with your data. Midway through writing your paper, you realise you should actually try out a logistic regression instead.
+Github lets's you branch out, make different 'branches' of your main project.
+(Branching)
+ Intro
+
+Literature Review
+
+Approach & methodology
+LPM
+Input variables; output variable
+
+Findings
+
+Recommendations
+
+
